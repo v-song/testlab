@@ -1,2 +1,3 @@
 # testlab
-lab 8
+lab 8 
+collaborators: sumi, vivien, angie
